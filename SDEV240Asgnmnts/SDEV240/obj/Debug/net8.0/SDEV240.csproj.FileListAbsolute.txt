@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.AssemblyInfo.cs
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\bin\Debug\net8.0\SDEV240.exe
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\bin\Debug\net8.0\SDEV240.deps.json
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\bin\Debug\net8.0\SDEV240.runtimeconfig.json
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\bin\Debug\net8.0\SDEV240.dll
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\bin\Debug\net8.0\SDEV240.pdb
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.dll
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\refint\SDEV240.dll
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.pdb
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\SDEV240.genruntimeconfig.cache
+C:\Users\Erick\source\repos\SDEV240Asgnmnts\SDEV240\obj\Debug\net8.0\ref\SDEV240.dll

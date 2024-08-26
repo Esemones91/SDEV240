@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.AssemblyInfo.cs
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\bin\Debug\net8.0\DebugOne.exe
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\bin\Debug\net8.0\DebugOne.deps.json
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\bin\Debug\net8.0\DebugOne.runtimeconfig.json
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\bin\Debug\net8.0\DebugOne.dll
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\bin\Debug\net8.0\DebugOne.pdb
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.dll
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\refint\DebugOne.dll
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.pdb
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\DebugOne.genruntimeconfig.cache
+C:\Users\Erick\source\repos\DebugOneAsgnmnt\DebugOne\obj\Debug\net8.0\ref\DebugOne.dll

@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\bin\Debug\net8.0\StopSign.exe
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\bin\Debug\net8.0\StopSign.deps.json
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\bin\Debug\net8.0\StopSign.runtimeconfig.json
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\bin\Debug\net8.0\StopSign.dll
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\bin\Debug\net8.0\StopSign.pdb
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.AssemblyInfoInputs.cache
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.AssemblyInfo.cs
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.dll
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\refint\StopSign.dll
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.pdb
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\StopSign.genruntimeconfig.cache
+C:\Users\Erick\source\repos\StopSignAsgnmnt\StopSign\obj\Debug\net8.0\ref\StopSign.dll
